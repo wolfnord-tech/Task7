@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task7</string>
+    <string name="stop_service">Остановить сервис</string>
+    <string name="user_dialog">Пользовательский диалог</string>
+    <string name="open_alertdialog">Открыть AlertDialog</string>
+    <string name="open_datepickerdialog">Открыть DatePickerDialog</string>
+    <string name="open_timepickerdialog">Открыть TimePickerDialog</string>
+</resources>
